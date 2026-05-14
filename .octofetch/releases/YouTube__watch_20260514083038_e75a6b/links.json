@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8962",
+  "folder": "YouTube__watch_20260514083038_e75a6b",
+  "base_name": "7JRdpEmiJjk_7JRdpEmiJjk_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/verfan01/Cloud-Downloads-1/releases/tag/co-releases-v1-8962",
+  "files": [
+    {
+      "name": "7JRdpEmiJjk_7JRdpEmiJjk_1080p.mp4",
+      "url": "https://github.com/verfan01/Cloud-Downloads-1/releases/download/co-releases-v1-8962/7JRdpEmiJjk_7JRdpEmiJjk_1080p.mp4",
+      "api_url": "https://api.github.com/repos/verfan01/Cloud-Downloads-1/releases/assets/420008161",
+      "id": 420008161,
+      "size": 73055222,
+      "download_count": 0
+    }
+  ]
+}
